@@ -8,3 +8,5 @@
 
 ### [linkedin](https://www.linkedin.com/in/sean-pollock/)
 
+![color](#FFFFFF)
+
