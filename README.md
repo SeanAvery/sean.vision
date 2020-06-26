@@ -5,7 +5,7 @@
 
 [![computer-svision-starter-pack](device.jpg)](https://seanavery.github.io/jetson-nano-box/#/)
 
-## 1. [Real Time Object Detection](http://sean.vision)
+## 1. [Real Time Object Detection](https://seanavery.github.io/realtime-ssd-detection/)
 > using Gstreamer, OpenCV and TensorRT for realtime SSD inference
 
 COMING SOON
