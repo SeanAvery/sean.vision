@@ -1,3 +1,5 @@
+# blog 
+
 ## [0. Computer Vision Starter Pack](https://seanavery.github.io/jetson-nano-box/#/)
 > build a gpu powered camera with Jetson Nano and SonyIMX219
 
