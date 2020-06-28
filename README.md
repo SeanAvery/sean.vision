@@ -10,3 +10,5 @@
 
 ## 2. [Asynchronous TensorRT Inference](https://github.com/SeanAvery/async-tensorrt)
 > multithreaded python application for asynchrounous inference/processing
+
+[![async-tensorrt](async_tensorrt_banner.png)](https://github.com/SeanAvery/async-tensorrt)
