@@ -1,11 +1,12 @@
 # blog 
 
 ## [0. Computer Vision Starter Pack](https://seanavery.github.io/jetson-nano-box/#/)
-> build a gpu powered camera with Jetson Nano and SonyIMX219
+> gpu powered camera with Jetson Nano and SonyIMX219
 
 [![computer-svision-starter-pack](device.jpg)](https://seanavery.github.io/jetson-nano-box/#/)
 
 ## 1. [Real Time Object Detection](https://seanavery.github.io/realtime-ssd-detection/)
-> using Gstreamer, OpenCV and TensorRT for realtime SSD inference
+> Gstreamer, OpenCV and TensorRT for realtime SSD inference
 
-COMING SOON
+## 2. [Asynchronous TensorRT Inference](https://github.com/SeanAvery/async-tensorrt)
+> multithreaded python application for asynchrounous inference/processing
