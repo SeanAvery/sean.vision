@@ -7,6 +7,7 @@
 
 ### 1. [Real Time Object Detection](https://seanavery.github.io/realtime-ssd-detection/)
 > Gstreamer, OpenCV and TensorRT for realtime SSD inference
+
 [![ssd demo](ssd_demo.png)](https://seanavery.github.io/realtime-ssd-detection/)
 
 ### 2. [Asynchronous TensorRT Inference](https://github.com/SeanAvery/async-tensorrt)
