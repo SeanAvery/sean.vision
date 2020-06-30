@@ -11,7 +11,10 @@
 [![ssd demo](ssd_demo.png)](https://seanavery.github.io/realtime-ssd-detection/)
 
 ### 2. [Asynchronous TensorRT Inference](https://github.com/SeanAvery/async-tensorrt)
-> multithreaded python application for asynchrounous inference/processing
+> multithreaded python application for asynchronous inference/processing
 
 [![async-tensorrt](async_tensorrt_banner.png)](https://github.com/SeanAvery/async-tensorrt)
+
+### 3. [Yolov5 on Jetson Nano](https://github.com/SeanAvery/yolov5-tensorrt)
+> port pytorch/onnx model to TensorRT
 
